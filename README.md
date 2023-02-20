@@ -1,5 +1,7 @@
 # Studio Ghibli API
 
+**February 20 2023 - I, Fitzypop, forked this repo and tried to host it on Deta Space. But, I think Deta's internal DNS routing. I'm getting 300 status. I can't easily use this with fetch or request code. Thinking of scraping Deta and redoing this api in Deno + Deno Deploy.**
+
  **December 1 2022 - Heroku is charging for apps now, so I'm archiving this. Feel free to fork and host another version**
  
 The [Studio Ghibli API](https://ghibliapp.com) catalogs the people, places, and things found in the worlds of Ghibli. It was created to help users discover resources, consume them via HTTP requests, and interact with them in whatever way makes sense. Navigation can be found on the left sidebar, and the right sidebar shows examples of returned objects for successful calls.
