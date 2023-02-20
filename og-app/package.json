@@ -1,0 +1,40 @@
+{
+  "name": "StudioGhibliAPI",
+  "version": "1.0.0",
+  "description": "A simple API for Studio Ghibli resources",
+  "keywords": [
+    "fake",
+    "JSON",
+    "server",
+    "REST",
+    "dummy",
+    "data",
+    "API",
+    "testing",
+    "prototyping"
+  ],
+  "homepage": "https://ghibliapi.herokuapp.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janaipakos/ghibliapi.git"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "node test/app"
+  },
+  "dependencies": {
+    "clone": "^1.0.2",
+    "json-server": "^0.8.4"
+  },
+  "devDependencies": {
+    "Faker": "~0.5.11",
+    "rosie": "~1.6.0",
+    "supertest": "^1.2.0",
+    "tape": "^4.5.1",
+    "underscore": ">=1.12.1"
+  },
+  "engines": {
+    "node": "7.x"
+  },
+  "license": "MIT"
+}
