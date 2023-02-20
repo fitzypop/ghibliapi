@@ -1,1 +1,8 @@
-.vscode
+.stack_work
+_site/
+.sass-cache/
+.DS_Store
+*.log
+node_modules/
+.deploy*/
+.space

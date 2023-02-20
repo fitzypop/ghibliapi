@@ -6,7 +6,7 @@ const url = require('url');
 const app = jsonServer.create()
 const router = jsonServer.router(clone(data))
 
-app.use((req, res, next) => {
+app.use((req, _res, next) => {
   if (req.path === '/') return next()
   router.db.setState(clone(data))
   next()
@@ -28,12 +28,11 @@ filterFields = (obj, fields) => {
 }
 
 router.render = (req, res) => {
-  const defaultLimit = 50
   const maxLimit = 250
-  var data = res.locals.data
-  var query = url.parse(req.originalUrl, true).query
+  let data = res.locals.data
+  const query = url.parse(req.originalUrl, true).query
   if (query.fields) {
-    var fields = query.fields.split(',')
+    const fields = query.fields.split(',')
     if (data.constructor === Array) {
       data = data.map((obj) => filterFields(obj, fields))
     }
