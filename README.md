@@ -5,10 +5,10 @@ The [Studio Ghibli API](https://ghibliapp.com) catalogs the people, places, and 
 ## Updates
 
 - December 1 2022 - Heroku is charging for apps now, so I'm archiving this. Feel free to fork and host another version
-- Februray 20 2023 - I forked the og archive from
+- Februray 20 2023 - I forked the og archive
   - Host on Deta Space
-  - ran into problems with Deta
-  - resloved problems by making all routes public in Spacefile
+  - ran into problems with Deta and fetching api data
+  - resolved problems by making all routes public in Spacefile
 
 ## Endpoints
 
