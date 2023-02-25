@@ -1,7 +1,7 @@
 # Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
 v: 0
 micros:
-  - name: Ghibli API
+  - name: Ghibli_API
     src: .
     engine: nodejs16
     primary: true
