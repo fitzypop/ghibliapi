@@ -23,7 +23,7 @@ The [Studio Ghibli API](https://ghibliapi.dev) catalogs the people, places, and 
 ## Getting Started
 Requests can be made with curl or other helper libraries by following regular REST calls. Examples are provided for Ruby and Python with a use case in Haskell. For example, here is how to GET the resource for the film My Neighbor Tororo:
 
-`curl https://ghibliapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49`
+`curl https://ghibliapi.dev/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49`
 
 Calling this resource will respond with the following object:
 

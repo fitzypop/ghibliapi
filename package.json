@@ -13,10 +13,10 @@
     "testing",
     "prototyping"
   ],
-  "homepage": "https://ghibliapp.com",
+  "homepage": "https://ghibliapi.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/janaipakos/ghibliapi.git"
+    "url": "https://github.com/fitzypop/ghibliapi.git"
   },
   "scripts": {
     "start": "node index",

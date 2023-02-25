@@ -1,12 +1,12 @@
 # Contributing
-- Clone the repo with `git clone https://github.com/janaipakos/ghibliapi.git`
+- Clone the repo with `git clone https://github.com/fitzypop/ghibliapi.git`
 - Watch fun Ghibli movies
 - Make changes to `./data.json` or `public/swagger.yaml`
 - Submit a pull request
 - That's it
 
 ## Development Server
-- Clone the repo with `git clone https://github.com/janaipakos/ghibliapi.git`
+- Clone the repo with `git clone https://github.com/fitzypop/ghibliapi.git`
 - `npm install`
 - `npm start`
 - Open `http://localhost:3000/`
