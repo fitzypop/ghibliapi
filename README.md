@@ -2,7 +2,7 @@
 
 >This is a fork of the og api https://github.com/janaipakos/ghibliapi
 
-The [Studio Ghibli API](https://ghibliapp.com) catalogs the people, places, and things found in the worlds of Ghibli. It was created to help users discover resources, consume them via HTTP requests, and interact with them in whatever way makes sense. Navigation can be found on the left sidebar, and the right sidebar shows examples of returned objects for successful calls.
+The [Studio Ghibli API](https://ghibliapi.dev) catalogs the people, places, and things found in the worlds of Ghibli. It was created to help users discover resources, consume them via HTTP requests, and interact with them in whatever way makes sense. Navigation can be found on the left sidebar, and the right sidebar shows examples of returned objects for successful calls.
 
 ## Updates
 
