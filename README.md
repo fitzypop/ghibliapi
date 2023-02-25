@@ -2,7 +2,7 @@
 
 >This is a fork of the og api https://github.com/janaipakos/ghibliapi
 
-The [Studio Ghibli API](https://ghibliapi.dev) catalogs the people, places, and things found in the worlds of Ghibli. It was created to help users discover resources, consume them via HTTP requests, and interact with them in whatever way makes sense. Navigation can be found on the left sidebar, and the right sidebar shows examples of returned objects for successful calls.
+The [Studio Ghibli API](https://ghibliapi-2-v8647363.deta.app) catalogs the people, places, and things found in the worlds of Ghibli. It was created to help users discover resources, consume them via HTTP requests, and interact with them in whatever way makes sense. Navigation can be found on the left sidebar, and the right sidebar shows examples of returned objects for successful calls.
 
 ## Updates
 
@@ -23,7 +23,7 @@ The [Studio Ghibli API](https://ghibliapi.dev) catalogs the people, places, and 
 ## Getting Started
 Requests can be made with curl or other helper libraries by following regular REST calls. Examples are provided for Ruby and Python with a use case in Haskell. For example, here is how to GET the resource for the film My Neighbor Tororo:
 
-`curl https://ghibliapi.dev/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49`
+`curl https://ghibliapi-2-v8647363.deta.app/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49`
 
 Calling this resource will respond with the following object:
 
