@@ -122,7 +122,7 @@
       "original_title_romanised": "Omoide poro poro",
       "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJU6rwzLX7Jk8HFQfVW6H5guMC.jpg",
       "movie_banner": "https://image.tmdb.org/t/p/w533_and_h300_bestv2/isCrlWWI4JrdLKAUAwFb5cjAsH4.jpg",
-      "description": "It’s 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her family in the countryside, and as the train travels through the night, memories flood back of her younger years: the first immature stirrings of romance, the onset of puberty, and the frustrations of math and boys. At the station she is met by young farmer Toshio, and the encounters with him begin to reconnect her to forgotten longings. In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
+      "description": "It's 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her family in the countryside, and as the train travels through the night, memories flood back of her younger years: the first immature stirrings of romance, the onset of puberty, and the frustrations of math and boys. At the station she is met by young farmer Toshio, and the encounters with him begin to reconnect her to forgotten longings. In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
       "director": "Isao Takahata",
       "producer": "Toshio Suzuki",
       "release_date": "1991",
@@ -1305,7 +1305,7 @@
       "climate": "Mild",
       "terrain": "Marsh",
       "surface_water": "60",
-      "residents": [],
+      "residents": ["TODO"],
       "films": [
         "https://ghibliapi-2-v8647363.deta.app/films/5fdfb320-2a02-49a7-94ff-5ca418cae602"
       ],
