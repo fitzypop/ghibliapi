@@ -2,7 +2,7 @@
 title: "Ghibli API"
 tagline: "This is a fork of the og api at https://github.com/janaipakos/ghibliapi"
 git: "https://github.com/fitzypop/ghibliapi"
-homepage: "https://ghibliapi.dev"
+homepage: "https://ghibliapi-1-v8647363.deta.app"
 ---
 
 ## Studio Ghibli API
